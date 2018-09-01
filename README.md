@@ -25,11 +25,6 @@ Spring Boot知识点整理、工程实践，并结合工作案例进行深入
 * 使用codecov进行代码覆盖率检查
 * 学习案例以模块方式划分，每隔模块都是独立可执行项目，直接运行Application即可
 
-## 分享平台
-
-> 博客：http://blog.csdn.net/u011116672
-
-> Github：https://github.com/rhwayfun
 
 ## 项目模块
 ```

@@ -1,18 +1,3 @@
-# springboot-study
-springboot系统学习-所有代码，博客：https://blog.csdn.net/m0_37499059/article/details/82182479
-
----
-SpringBoot系统学习 - 基础篇:      demo1      
-SpringBoot系统学习 - Web篇:       demo2
-SpringBoot系统学习 - 持久层篇:    demo3
-SpringBoot系统学习 - 缓存篇:      demo4
-
-
-
-
----
-
-
 # 最全的Spring Boot实践指南
 ![travis](https://travis-ci.org/rhwayfun/spring-boot-learning-examples.svg?branch=develop)
 [![codecov](https://codecov.io/gh/rhwayfun/spring-boot-learning-examples/branch/develop/graph/badge.svg)](https://codecov.io/gh/rhwayfun/spring-boot-learning-examples)
@@ -184,8 +169,5 @@ mvn clean package
 
 ## 未完待续
 更多案例不断补充中。。。如果您觉得对你有用，就给我点个赞吧\(^o^)/~
-
-
-
 
 

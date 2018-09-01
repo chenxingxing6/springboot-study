@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN" strict="true">
+
+    <Properties>
+        <Property name="layout">%d %p [%t] %c{10}:%M:%L %X{traceId,0} %m%n</Property>
+    </Properties>
+
+</Configuration>
